@@ -1,0 +1,1410 @@
+[
+    {
+        "plan_name": "Yellow Asphodel",
+        "food_element": "P & N",
+        "blooming_month": "March-May",
+        "flower_color": "Yellow",
+        "water_needs": "Low",
+        "height": "30-60 cm",
+        "native_region": "Mediterranean",
+        "companion_plants": "Lavender, Rosemary, Sage"
+    },
+    {
+        "plan_name": "Asphodel",
+        "food_element": "P & N",
+        "blooming_month": "February-May",
+        "flower_color": "White, Pink",
+        "water_needs": "Low",
+        "height": "60-120 cm",
+        "native_region": "Mediterranean",
+        "companion_plants": "Salvia, Euphorbia, Iris"
+    },
+    {
+        "plan_name": "Syrian Maple",
+        "food_element": "P & N",
+        "blooming_month": "March-May",
+        "flower_color": "N/A",
+        "water_needs": "Low",
+        "height": "3-6 m",
+        "native_region": "Middle East",
+        "companion_plants": "Wild rose, Ceanothus, Redbud"
+    },
+    {
+        "plan_name": "Toothpick",
+        "food_element": "P",
+        "blooming_month": "April-August",
+        "flower_color": "Blue",
+        "water_needs": "Low",
+        "height": "20-60 cm"
+    },
+    {
+        "plan_name": "Cumin",
+        "food_element": "P & N",
+        "blooming_month": "March-April",
+        "flower_color": "White, Pink",
+        "water_needs": "Low",
+        "height": "20-30 cm",
+        "native_region": "Eastern Mediterranean",
+        "companion_plants": "Fennel, coriander, chamomile, garlic, basil"
+    },
+    {
+        "plan_name": "Field Eryngo",
+        "food_element": "P & N",
+        "blooming_month": "May-August",
+        "flower_color": "Blue, Purple",
+        "water_needs": "Low",
+        "height": "60-100 cm",
+        "native_region": "Mediterranean",
+        "companion_plants": "Lavender, Russian sage, yarrow, marjoram"
+    },
+    {
+        "plan_name": "Sea Holly",
+        "food_element": "P & N",
+        "blooming_month": "May-September",
+        "flower_color": "Blue, Purple",
+        "water_needs": "Low",
+        "height": "30-90 cm",
+        "native_region": "Europe",
+        "companion_plants": "Echinacea, Black-eyed Susan, Sedum, grasses"
+    },
+    {
+        "plan_name": "Sea Holly",
+        "food_element": "P & N",
+        "blooming_month": "April-August",
+        "flower_color": "Blue, Purple",
+        "water_needs": "Low",
+        "height": "60-90 cm",
+        "native_region": "Europe",
+        "companion_plants": "Echinacea, Black-eyed Susan, Sedum, grasses"
+    },
+    {
+        "plan_name": "Ivy",
+        "food_element": "P & N",
+        "blooming_month": "January-December",
+        "flower_color": "N/A",
+        "water_needs": "Low",
+        "height": "Up to 30 m",
+        "native_region": "Eurasia",
+        "companion_plants": "Hedera helix (other varieties), ferns, hostas"
+    },
+    {
+        "plan_name": "Hyacinth Sqill",
+        "food_element": "P & N",
+        "blooming_month": "February-April",
+        "flower_color": "Blue, White",
+        "water_needs": "Low",
+        "height": "10-25 cm",
+        "native_region": "Mediterranean",
+        "companion_plants": "Stonecrop, Dianthus, Echinacea, Yarrow"
+    },
+    {
+        "plan_name": "Strigose Alkanet",
+        "food_element": "N",
+        "blooming_month": "March-June",
+        "flower_color": "Blue, Purple",
+        "water_needs": "Low",
+        "height": "30-70 cm",
+        "native_region": "Mediterranean",
+        "companion_plants": "Oregano, sage, thyme, rosemary, lavender"
+    },
+    {
+        "plan_name": "Blue Hound’s Tongue",
+        "food_element": "N",
+        "blooming_month": "April-May",
+        "flower_color": "Blue",
+        "water_needs": "Low",
+        "height": "20-50 cm",
+        "native_region": "Mediterranean",
+        "companion_plants": "Catmint, coreopsis, yarrow, Echinacea"
+    },
+    {
+        "plan_name": "Bushy Bugloss",
+        "food_element": "N",
+        "blooming_month": "March-June",
+        "flower_color": "Blue, Purple",
+        "water_needs": "Low",
+        "height": "20-80 cm",
+        "native_region": "Mediterranean",
+        "companion_plants": "Verbascum, Sedum, phlox, salvias, daylilies"
+    },
+    {
+        "plan_name": "Hispid Viper’s-bugloss",
+        "food_element": "P & N",
+        "blooming_month": "March-August",
+        "flower_color": "Blue, Purple",
+        "water_needs": "Low",
+        "height": "30-90 cm",
+        "native_region": "Mediterranean",
+        "companion_plants": "Alliums, marjoram, lavender, rosemary, yarrow"
+    },
+    {
+        "plan_name": "Tall Viper’s-bugloss",
+        "food_element": "P & N",
+        "blooming_month": "March-June",
+        "flower_color": "Blue",
+        "water_needs": "Low",
+        "height": "60-150 cm",
+        "native_region": "Europe",
+        "companion_plants": "Echinacea, Rudbeckia, Achillea, Russian sage"
+    },
+    {
+        "plan_name": "Judean Viper’s-bugloss",
+        "food_element": "P & N",
+        "blooming_month": "March-April",
+        "flower_color": "Blue, Purple",
+        "water_needs": "Low",
+        "height": "30-60 cm",
+        "native_region": "Mediterranean",
+        "companion_plants": "Verbena, salvias, echinacea, yarrow, coneflower"
+    },
+    {
+        "plan_name": "Purple Viper’s Bugloss",
+        "food_element": "P & N",
+        "blooming_month": "January-April",
+        "flower_color": "Purple",
+        "water_needs": "Low",
+        "height": "30-70 cm",
+        "native_region": "Mediterranean",
+        "companion_plants": "Daisies, poppies, verbascum, Russian sage"
+    },
+    {
+        "plan_name": "Callous-leaved Gromwell",
+        "food_element": "N",
+        "blooming_month": "December-August",
+        "flower_color": "Blue, Purple",
+        "water_needs": "Low",
+        "height": "20-50 cm",
+        "native_region": "Mediterranean",
+        "companion_plants": "Lavender, sage, thyme, oregano, marjoram"
+    },
+    {
+        "plan_name": "Carob tree",
+        "food_element": "P & N",
+        "blooming_month": "July",
+        "flower_color": "N/A",
+        "water_needs": "Low",
+        "height": "5-15 m",
+        "native_region": "Mediterranean",
+        "companion_plants": "Bay, lavender, rosemary, thyme, sage"
+    },
+    {
+        "plan_name": "Cercis",
+        "food_element": "N",
+        "blooming_month": "February-May",
+        "flower_color": "Pink, Red, White",
+        "water_needs": "Medium",
+        "height": "4-10 m",
+        "native_region": "Eastern Mediterranean",
+        "companion_plants": "Bee balm, coneflower, daylilies, phlox"
+    },
+    {
+        "plan_name": "Egyptian Caper",
+        "food_element": "P & N",
+        "blooming_month": "March-August",
+        "flower_color": "N/A",
+        "water_needs": "Low",
+        "height": "1-2 m",
+        "native_region": "Mediterranean",
+        "companion_plants": "Thyme, oregano, rosemary, sage, bay"
+    },
+    {
+        "plan_name": "Caper",
+        "food_element": "P & N",
+        "blooming_month": "April-October",
+        "flower_color": "N/A",
+        "water_needs": "Low",
+        "height": "0.5-2 m",
+        "native_region": "Mediterranean",
+        "companion_plants": "Thyme, rosemary, oregano, basil, lavender"
+    },
+    {
+        "plan_name": "Spiny Caper",
+        "food_element": "P & N",
+        "blooming_month": "March-August",
+        "flower_color": "N/A",
+        "water_needs": "Low",
+        "height": "1-3 m",
+        "native_region": "Mediterranean",
+        "companion_plants": "Rosemary, thyme, lavender, bay, sage"
+    },
+    {
+        "plan_name": "Scabious",
+        "food_element": "P & N",
+        "blooming_month": "March-May",
+        "flower_color": "Blue, Purple",
+        "water_needs": "Low",
+        "height": "30-80 cm",
+        "native_region": "Europe",
+        "companion_plants": "Yarrow, daylilies, phlox, Sedum, echinacea"
+    },
+    {
+        "plan_name": "Prolific Scabious",
+        "food_element": "P & N",
+        "blooming_month": "March-May",
+        "flower_color": "Blue, Purple",
+        "water_needs": "Low",
+        "height": "30-60 cm",
+        "native_region": "Europe",
+        "companion_plants": "Agastache, dianthus, Echinacea, Salvia, Yarrow"
+    },
+    {
+        "plan_name": "Hairy Rockrose",
+        "food_element": "P",
+        "blooming_month": "March-June",
+        "flower_color": "Pink",
+        "water_needs": "Low",
+        "height": "30-100 cm",
+        "native_region": "Mediterranean",
+        "companion_plants": "Lavender, Sage, Thyme"
+    },
+    {
+        "plan_name": "Pink Sun-rose",
+        "food_element": "P & N",
+        "blooming_month": "January-May",
+        "flower_color": "Pink",
+        "water_needs": "Low",
+        "height": "15-30 cm",
+        "native_region": "Mediterranean",
+        "companion_plants": "Lavender, Rosemary, Sage, Thyme"
+    },
+    {
+        "plan_name": "Sulphur-colored Milfoil",
+        "food_element": "P & N",
+        "blooming_month": "April-May",
+        "flower_color": "Yellow",
+        "water_needs": "Low",
+        "height": "30-60 cm",
+        "native_region": "Europe, Asia",
+        "companion_plants": "Yarrow, Sage, Oregano, Thyme"
+    },
+    {
+        "plan_name": "Lavender Cotton",
+        "food_element": "P & N",
+        "blooming_month": "March-May",
+        "flower_color": "N/A",
+        "water_needs": "Low",
+        "height": "30-60 cm",
+        "native_region": "Mediterranean",
+        "companion_plants": "Lavender, Sage, Thyme"
+    },
+    {
+        "plan_name": "Woolly Yarrow",
+        "food_element": "P & N",
+        "blooming_month": "March-May",
+        "flower_color": "Yellow",
+        "water_needs": "Low",
+        "height": "30-60 cm",
+        "native_region": "Europe, Asia",
+        "companion_plants": "Lavender, Sage, Thyme"
+    },
+    {
+        "plan_name": "Glaucous Star Thistle",
+        "food_element": "N & P",
+        "blooming_month": "May-August",
+        "flower_color": "Purple",
+        "water_needs": "Low",
+        "height": "30-90 cm",
+        "native_region": "Mediterranean",
+        "companion_plants": "Lavender, Sage, Thyme"
+    },
+    {
+        "plan_name": "Smooth Distaff thistle",
+        "food_element": "N & P",
+        "blooming_month": "April-August",
+        "flower_color": "Purple",
+        "water_needs": "Low",
+        "height": "30-60 cm",
+        "native_region": "Europe",
+        "companion_plants": "Lavender, Sage, Thyme"
+    },
+    {
+        "plan_name": "Safflower",
+        "food_element": "N & P",
+        "blooming_month": "May-September",
+        "flower_color": "Yellow, Orange",
+        "water_needs": "Low",
+        "height": "30-150 cm",
+        "native_region": "Mediterranean",
+        "companion_plants": "Lavender, Sage, Thyme"
+    },
+    {
+        "plan_name": "Centaury-thistle",
+        "food_element": "N & P",
+        "blooming_month": "March-June",
+        "flower_color": "Purple",
+        "water_needs": "Low",
+        "height": "50-100",
+        "native_region": "Europe, Asia",
+        "companion_plants": "Lavender, Sage, Thyme"
+    },
+    {
+        "plan_name": "Spanish Centaury-thistle",
+        "food_element": "N & P",
+        "blooming_month": "April-July",
+        "flower_color": "Pink",
+        "water_needs": "Low",
+        "height": "50-100",
+        "native_region": "Mediterranean",
+        "companion_plants": "Lavender, Sage, Thyme"
+    },
+    {
+        "plan_name": "Centaury-thistle",
+        "food_element": "N & P",
+        "blooming_month": "January-May",
+        "flower_color": "Purple",
+        "water_needs": "Low",
+        "height": "50-100",
+        "native_region": "Europe, Asia",
+        "companion_plants": "Lavender, Sage, Thyme"
+    },
+    {
+        "plan_name": "Centaury",
+        "food_element": "N & P",
+        "blooming_month": "April-August",
+        "flower_color": "Pink",
+        "water_needs": "Low",
+        "height": "Oct-20",
+        "native_region": "Europe, Asia",
+        "companion_plants": "Lavender, Sage, Thyme"
+    },
+    {
+        "plan_name": "Centaury-thistle",
+        "food_element": "N & P",
+        "blooming_month": "May-July",
+        "flower_color": "Pink",
+        "water_needs": "Low",
+        "height": "50-100",
+        "native_region": "Europe, Asia",
+        "companion_plants": "Lavender, Sage, Thyme"
+    },
+    {
+        "plan_name": "Goldy Locks",
+        "food_element": "P",
+        "blooming_month": "September-November",
+        "flower_color": "Yellow",
+        "water_needs": "Low",
+        "height": "Oct-30",
+        "native_region": "Europe, Asia",
+        "companion_plants": "Lavender, Sage, Thyme"
+    },
+    {
+        "plan_name": "False Saw-wort",
+        "food_element": "N & P",
+        "blooming_month": "March-May",
+        "flower_color": "White",
+        "water_needs": "Low",
+        "height": "30-60",
+        "native_region": "Europe, Asia",
+        "companion_plants": "Lavender, Sage, Thyme"
+    },
+    {
+        "plan_name": "Thistle",
+        "food_element": "N & P",
+        "blooming_month": "March-May",
+        "flower_color": "Purple",
+        "water_needs": "Low",
+        "height": "60-150",
+        "native_region": "Europe, Asia, Africa",
+        "companion_plants": "Lavender, Sage, Thyme"
+    },
+    {
+        "plan_name": "Cotton Thistle",
+        "food_element": "P & N",
+        "blooming_month": "March-June",
+        "flower_color": "Pink",
+        "water_needs": "Low",
+        "height": "100-200",
+        "native_region": "Europe, Asia",
+        "companion_plants": "Lavender, Sage, Thyme"
+    },
+    {
+        "plan_name": "False Plumed Thistle",
+        "food_element": "N & P",
+        "blooming_month": "March-June",
+        "flower_color": "Purple",
+        "water_needs": "Low",
+        "height": "30-80",
+        "native_region": "Europe, Asia",
+        "companion_plants": "Lavender, Sage, Thyme"
+    },
+    {
+        "plan_name": "Artichoke Cotton-Thistle",
+        "food_element": "N & P",
+        "blooming_month": "May-July",
+        "flower_color": "Purple",
+        "water_needs": "Low",
+        "height": "150-200",
+        "native_region": "Mediterranean",
+        "companion_plants": "Lavender, Sage, Thyme"
+    },
+    {
+        "plan_name": "Jaffa Groundsel",
+        "food_element": "P & N",
+        "blooming_month": "January-April",
+        "flower_color": "Yellow",
+        "water_needs": "Low",
+        "height": "20-50",
+        "native_region": "Mediterranean",
+        "companion_plants": "Sage, Thyme, Marjoram, Lavender"
+    },
+    {
+        "plan_name": "spring Groundsel",
+        "food_element": "P & N",
+        "blooming_month": "January-December",
+        "flower_color": "Yellow",
+        "water_needs": "Low",
+        "height": "30-50",
+        "native_region": "Mediterranean",
+        "companion_plants": "Sage, Thyme, Marjoram, Lavender"
+    },
+    {
+        "plan_name": "Milk Thistle",
+        "food_element": "N & P",
+        "blooming_month": "March-May",
+        "flower_color": "Purple",
+        "water_needs": "Low",
+        "height": "60-150",
+        "native_region": "Mediterranean region",
+        "companion_plants": "Borage, Calendula, Chicory, Dill, Fennel, Yarrow"
+    },
+    {
+        "plan_name": "Syrian Artichoke",
+        "food_element": "N & P",
+        "blooming_month": "June-August",
+        "flower_color": "Purple",
+        "water_needs": "Low",
+        "height": "50-100",
+        "native_region": "Middle East, Mediterranean",
+        "companion_plants": "Borage, Calendula, Chicory, Fennel, Yarrow, Tarragon"
+    },
+    {
+        "plan_name": "Stinkwort",
+        "food_element": "P & N",
+        "blooming_month": "August-December",
+        "flower_color": "Yellow",
+        "water_needs": "Low",
+        "height": "30-100",
+        "native_region": "Mediterranean, Western Asia",
+        "companion_plants": "Lavender, Thyme, Sage, Wormwood"
+    },
+    {
+        "plan_name": "Inula",
+        "food_element": "P & N",
+        "blooming_month": "September-November",
+        "flower_color": "Yellow",
+        "water_needs": "Low",
+        "height": "60-150",
+        "native_region": "Europe, Asia",
+        "companion_plants": "Yarrow, Lavender, Calendula, Echinacea, Coneflower"
+    },
+    {
+        "plan_name": "Globe Thistle",
+        "food_element": "N & P",
+        "blooming_month": "June-July",
+        "flower_color": "Blue",
+        "water_needs": "Low",
+        "height": "50-150",
+        "native_region": "Europe, Western Asia",
+        "companion_plants": "Lavender, Echinacea, Bee balm, Coneflower"
+    },
+    {
+        "plan_name": "Pale Globe Thistle",
+        "food_element": "N & P",
+        "blooming_month": "May-August",
+        "flower_color": "Yellow",
+        "water_needs": "Low",
+        "height": "50-100",
+        "native_region": "Mediterranean",
+        "companion_plants": "Lavender, Echinacea, Coneflower, Bee balm"
+    },
+    {
+        "plan_name": "Common Hemp Agrimony",
+        "food_element": "P & N",
+        "blooming_month": "June October",
+        "flower_color": "Pink",
+        "water_needs": "Low",
+        "height": "30-60",
+        "native_region": "Europe, Western Asia, North Africa",
+        "companion_plants": "Aster, Coreopsis, Coneflower, Black-eyed Susan"
+    },
+    {
+        "plan_name": "Syrian Thistle",
+        "food_element": "N & P",
+        "blooming_month": "April-June",
+        "flower_color": "Pink",
+        "water_needs": "Low",
+        "height": "30-80",
+        "native_region": "Middle East, Mediterranean",
+        "companion_plants": "Marigold, Lavender, Sage, Wormwood"
+    },
+    {
+        "plan_name": "Mallow Bindweed",
+        "food_element": "N",
+        "blooming_month": "March-June",
+        "flower_color": "Pink",
+        "water_needs": "Low",
+        "height": "100-150",
+        "native_region": "Mediterranean",
+        "companion_plants": "Coneflower, Lavender, Yarrow"
+    },
+    {
+        "plan_name": "Splendid Bindweed",
+        "food_element": "N",
+        "blooming_month": "April-July",
+        "flower_color": "Pink",
+        "water_needs": "Low",
+        "height": "60-150",
+        "native_region": "Mediterranean, Western Asia",
+        "companion_plants": "Coneflower, Marigold, Lavender"
+    },
+    {
+        "plan_name": "White Wall-rocket",
+        "food_element": "N",
+        "blooming_month": "February-March,",
+        "flower_color": "White",
+        "water_needs": "Low",
+        "height": "30-100",
+        "native_region": "Mediterranean, Western Asia",
+        "companion_plants": "Alyssum, Coreopsis, Cosmos, Coneflower"
+    },
+    {
+        "plan_name": "Wall-rocket",
+        "food_element": "N",
+        "blooming_month": "January-May",
+        "flower_color": "White",
+        "water_needs": "Low",
+        "height": "10-100",
+        "native_region": "Mediterranean, Western Asia",
+        "companion_plants": "Marigold, Coneflower, Black-eyed Susan, Yarrow"
+    },
+    {
+        "plan_name": "Arugula",
+        "food_element": "P & N",
+        "blooming_month": "February-May",
+        "flower_color": "White",
+        "water_needs": "Low",
+        "height": "20-100",
+        "native_region": "Mediterranean, Western Asia, Caucasus",
+        "companion_plants": "Calendula, Chamomile, Dill, Lavender"
+    },
+    {
+        "plan_name": "Pretty Maresia",
+        "food_element": "P & N",
+        "blooming_month": "January-November",
+        "flower_color": "Purple",
+        "water_needs": "Low",
+        "height": "20-60",
+        "native_region": "Mediterranean, Western Asia",
+        "companion_plants": "Calendula, Lavender, Coneflower, Black-eyed Susan"
+    },
+    {
+        "plan_name": "White Mustard",
+        "food_element": "P & N",
+        "blooming_month": "January-December",
+        "flower_color": "White",
+        "water_needs": "Low",
+        "height": "20-100",
+        "native_region": "Mediterranean, Western Asia",
+        "companion_plants": "Calendula, Chamomile, Echinacea, Coneflower, Black-eyed Susan"
+    },
+    {
+        "plan_name": "Charlock",
+        "food_element": "P & N",
+        "blooming_month": "March-May",
+        "flower_color": "Yellow",
+        "water_needs": "Low",
+        "height": "30-100",
+        "native_region": "Europe, Western Asia",
+        "companion_plants": "Chamomile, Calendula, Coneflower, Black-eyed Susan"
+    },
+    {
+        "plan_name": "Spiny Zilla",
+        "food_element": "N",
+        "blooming_month": "January-May",
+        "flower_color": "Yellow",
+        "water_needs": "Low",
+        "height": "30-100",
+        "native_region": "Middle East, Mediterranean, Central Asia",
+        "companion_plants": "Yarrow, Lavender, Sage, Wormwood"
+    },
+    {
+        "plan_name": "Sea-Radish, White Charlock",
+        "food_element": "N",
+        "blooming_month": "January-May",
+        "flower_color": "White",
+        "water_needs": "Low",
+        "height": "30-100",
+        "native_region": "Europe, Western Asia, Mediterranean, North Africa",
+        "companion_plants": "Lavender, Thyme, Sage, Oregano"
+    },
+    {
+        "plan_name": "Squirting Cucumber",
+        "food_element": "N & P",
+        "blooming_month": "May-October",
+        "flower_color": "Yellow",
+        "water_needs": "Low",
+        "height": "30-100",
+        "native_region": "Mediterranean, Western Asia, Central Asia",
+        "companion_plants": "Calendula, Chamomile, Lavender, Oregano, Yarrow"
+    },
+    {
+        "plan_name": "Jaffa Scabious",
+        "food_element": "P & N",
+        "blooming_month": "May-September",
+        "flower_color": "Pink",
+        "water_needs": "Low",
+        "height": "30-50",
+        "native_region": "Mediterranean, Western Asia",
+        "companion_plants": "Lavender, Sage, Thyme, Yarrow"
+    },
+    {
+        "plan_name": "Eastern Strawberry Tree",
+        "food_element": "N",
+        "blooming_month": "March-April",
+        "flower_color": "White",
+        "water_needs": "Low",
+        "height": "200-300",
+        "native_region": "Mediterranean, Middle East, Caucasus",
+        "companion_plants": "Lavende"
+    },
+    {
+        "plan_name": "Blue Lupine",
+        "food_element": "P",
+        "blooming_month": "February-April",
+        "flower_color": "Blue",
+        "water_needs": "Low",
+        "height": "60-150",
+        "native_region": "North America",
+        "companion_plants": "Indian paintbrush, prairie sage"
+    },
+    {
+        "plan_name": "Prosopis",
+        "food_element": "P & N",
+        "blooming_month": "May-August",
+        "flower_color": "Yellow",
+        "water_needs": "Low",
+        "height": "200-400",
+        "native_region": "North America",
+        "companion_plants": "Mesquite, creosote bush"
+    },
+    {
+        "plan_name": "Judean Bird’s-foot Trefoil",
+        "food_element": "P & N",
+        "blooming_month": "March-May",
+        "flower_color": "Yellow",
+        "water_needs": "Low",
+        "height": "20-50",
+        "native_region": "Mediterranean",
+        "companion_plants": "Lavender, thyme, rosemary"
+    },
+    {
+        "plan_name": "Silvery Bird’s-foot Trefoil",
+        "food_element": "P & N",
+        "blooming_month": "March-August",
+        "flower_color": "Purple",
+        "water_needs": "Low",
+        "height": "20-40",
+        "native_region": "Europe, Asia",
+        "companion_plants": "Clover, alfalfa"
+    },
+    {
+        "plan_name": "Palestine Lupine",
+        "food_element": "P",
+        "blooming_month": "February-May",
+        "flower_color": "Purple",
+        "water_needs": "Low",
+        "height": "50-100",
+        "native_region": "Mediterranean",
+        "companion_plants": "Cistus, rockrose, rosemary"
+    },
+    {
+        "plan_name": "Buffalo Herb",
+        "food_element": "P & N",
+        "blooming_month": "April-July",
+        "flower_color": "Pink to purple",
+        "water_needs": "Low to medium",
+        "height": "30-60",
+        "native_region": "North America",
+        "companion_plants": "Coneflower, black-eyed Susan"
+    },
+    {
+        "plan_name": "Yellow Melilot",
+        "food_element": "N & P",
+        "blooming_month": "April-October",
+        "flower_color": "Yellow",
+        "water_needs": "Medium",
+        "height": "60-120",
+        "native_region": "Europe, Asia",
+        "companion_plants": "Sweet clover, borage"
+    },
+    {
+        "plan_name": "Tumble St. John’s-wort",
+        "food_element": "P",
+        "blooming_month": "May-September",
+        "flower_color": "Yellow",
+        "water_needs": "Low to medium",
+        "height": "30-60",
+        "native_region": "North America",
+        "companion_plants": "Yarrow, bee balm"
+    },
+    {
+        "plan_name": "Molucca Balm; Shell",
+        "food_element": "N",
+        "blooming_month": "April-July",
+        "flower_color": "Purple",
+        "water_needs": "Low to medium",
+        "height": "60-90",
+        "native_region": "Southeast Asia",
+        "companion_plants": "Butterfly bush, phlox"
+    },
+    {
+        "plan_name": "Common Ballota",
+        "food_element": "N",
+        "blooming_month": "April-October",
+        "flower_color": "Pink to purple",
+        "water_needs": "Low to medium",
+        "height": "30-60",
+        "native_region": "Mediterranean",
+        "companion_plants": "Lavender, rosemary, sage"
+    },
+    {
+        "plan_name": "Cone Head Thyme",
+        "food_element": "P & N",
+        "blooming_month": "May-October",
+        "flower_color": "Purple",
+        "water_needs": "Low to medium",
+        "height": "20-30",
+        "native_region": "Mediterranean",
+        "companion_plants": "Lavender, sage, rosemary"
+    },
+    {
+        "plan_name": "Musky Archange",
+        "food_element": "N",
+        "blooming_month": "March-April",
+        "flower_color": "Pink to purple",
+        "water_needs": "Medium",
+        "height": "60-90",
+        "native_region": "Mediterranean",
+        "companion_plants": "Thyme, lavender"
+    },
+    {
+        "plan_name": "French Lavender; Spanish",
+        "food_element": "N",
+        "blooming_month": "February-May",
+        "flower_color": "Purple",
+        "water_needs": "Low to medium",
+        "height": "30-60",
+        "native_region": "Mediterranean",
+        "companion_plants": "Rosemary, sage, thyme"
+    },
+    {
+        "plan_name": "Mint",
+        "food_element": "N",
+        "blooming_month": "June-July",
+        "flower_color": "White, pink to purple",
+        "water_needs": "High",
+        "height": "30-90",
+        "native_region": "Europe, Asia",
+        "companion_plants": "Basil, oregano, chamomile"
+    },
+    {
+        "plan_name": "White Leaved Savory",
+        "food_element": "P & N",
+        "blooming_month": "February-June",
+        "flower_color": "White",
+        "water_needs": "Low to medium",
+        "height": "15-30",
+        "native_region": "Mediterranean",
+        "companion_plants": "Thyme, rosemary, sage"
+    },
+    {
+        "plan_name": "Great Hedge-nettle",
+        "food_element": "N",
+        "blooming_month": "July-October",
+        "flower_color": "Pink to purple",
+        "water_needs": "High",
+        "height": "60-120",
+        "native_region": "Europe",
+        "companion_plants": "Lavender, sage"
+    },
+    {
+        "plan_name": "Rosemary",
+        "food_element": "N",
+        "blooming_month": "March-September",
+        "flower_color": "Purple, blue",
+        "water_needs": "Low to medium",
+        "height": "60-120",
+        "native_region": "Mediterranean",
+        "companion_plants": "Thyme, sage, lavender"
+    },
+    {
+        "plan_name": "Greek Sage",
+        "food_element": "N",
+        "blooming_month": "March-June",
+        "flower_color": "Blue",
+        "water_needs": "Low to medium",
+        "height": "30-60",
+        "native_region": "Mediterranean",
+        "companion_plants": "Rosemary, thyme, lavender"
+    },
+    {
+        "plan_name": "Jerusalem Sage",
+        "food_element": "P & N",
+        "blooming_month": "March-July",
+        "flower_color": "Yellow",
+        "water_needs": "Low to medium",
+        "height": "60-90",
+        "native_region": "Mediterranean",
+        "companion_plants": "Rosemary, lavender, thyme"
+    },
+    {
+        "plan_name": "Wild Sage",
+        "food_element": "P & N",
+        "blooming_month": "April-May",
+        "flower_color": "Purple",
+        "water_needs": "Low to medium",
+        "height": "30-60",
+        "native_region": "North America",
+        "companion_plants": "Coneflower, black-eyed Susan"
+    },
+    {
+        "plan_name": "Judean Sage",
+        "food_element": "P & N",
+        "blooming_month": "April-June",
+        "flower_color": "Purple",
+        "water_needs": "Low to medium",
+        "height": "30-60",
+        "native_region": "Mediterranean",
+        "companion_plants": "Rosemary, thyme, lavender"
+    },
+    {
+        "plan_name": "Savory of Crete",
+        "food_element": "N",
+        "blooming_month": "March-July",
+        "flower_color": "Pink to white",
+        "water_needs": "Low to medium",
+        "height": "15-30",
+        "native_region": "Mediterranean",
+        "companion_plants": "Lavender, thyme, oregano"
+    },
+    {
+        "plan_name": "Mountain Tea",
+        "food_element": "N",
+        "blooming_month": "June-October",
+        "flower_color": "White",
+        "water_needs": "Low to medium",
+        "height": "30-60",
+        "native_region": "Mediterranean",
+        "companion_plants": "Thyme, oregano, rosemary"
+    },
+    {
+        "plan_name": "Branching Ironwort",
+        "food_element": "N",
+        "blooming_month": "May-October",
+        "flower_color": "Purple",
+        "water_needs": "Medium",
+        "height": "60-90",
+        "native_region": "Mediterranean",
+        "companion_plants": "Lavender, thyme, sage"
+    },
+    {
+        "plan_name": "Lamb’s Ear",
+        "food_element": "N",
+        "blooming_month": "May-June",
+        "flower_color": "Pink to purple",
+        "water_needs": "Low to medium",
+        "height": "30-60",
+        "native_region": "Mediterranean",
+        "companion_plants": "Lavender, thyme, rosemary"
+    },
+    {
+        "plan_name": "Spreading Germander",
+        "food_element": "P & N",
+        "blooming_month": "April-June",
+        "flower_color": "Purple",
+        "water_needs": "Low to medium",
+        "height": "30-60",
+        "native_region": "Mediterranean",
+        "companion_plants": "Lavender, thyme, rosemary"
+    },
+    {
+        "plan_name": "Water Germander",
+        "food_element": "P & N",
+        "blooming_month": "June-October",
+        "flower_color": "Pink to purple",
+        "water_needs": "High",
+        "height": "30-60",
+        "native_region": "Mediterranean",
+        "companion_plants": "Lavender, rosemary, sage"
+    },
+    {
+        "plan_name": "Strabwerry Clover",
+        "food_element": "N",
+        "blooming_month": "April-May",
+        "flower_color": "Pink",
+        "water_needs": "Low to medium",
+        "height": "15-30",
+        "native_region": "Europe, Asia, Africa, North America",
+        "companion_plants": "Wildflowers, White Clover,"
+    },
+    {
+        "plan_name": "Palestine Clover",
+        "food_element": "P & N",
+        "blooming_month": "April-May",
+        "flower_color": "Pink to white",
+        "water_needs": "Low to medium",
+        "height": "30-60",
+        "native_region": "Mediterranean, Western Asia, North Africa",
+        "companion_plants": "Wildflowers, White Clover,Red Clover, Mustard, Herbs"
+    },
+    {
+        "plan_name": "Purple Clover",
+        "food_element": "P & N",
+        "blooming_month": "April-May",
+        "flower_color": "Purple",
+        "water_needs": "Low to medium",
+        "height": "15-30",
+        "native_region": "Europe, Central Asia",
+        "companion_plants": "Wildflowers, White Clover,Red Clover, Mustard, Herbs"
+    },
+    {
+        "plan_name": "Dutch Clover",
+        "food_element": "N",
+        "blooming_month": "April-May",
+        "flower_color": "Pink",
+        "water_needs": "Low to medium",
+        "height": "15-30",
+        "native_region": "Europe, Asia, North Africa",
+        "companion_plants": "Wildflowers, White Clover,"
+    },
+    {
+        "plan_name": "Trifolium Pink Clover",
+        "food_element": "N",
+        "blooming_month": "April-May",
+        "flower_color": "Pink",
+        "water_needs": "Low to medium",
+        "height": "30-60",
+        "native_region": "Europe, Western Asia",
+        "companion_plants": "Wildflowers, White Clover,"
+    },
+    {
+        "plan_name": "Sea-squill",
+        "food_element": "P & N",
+        "blooming_month": "July-October",
+        "flower_color": "White",
+        "water_needs": "Low",
+        "height": "20-30",
+        "native_region": "Mediterranean",
+        "companion_plants": "Other Mediterranean flowers"
+    },
+    {
+        "plan_name": "Bristly Hollyhock",
+        "food_element": "P & N",
+        "blooming_month": "April-July",
+        "flower_color": "Pink, Purple",
+        "water_needs": "Medium",
+        "height": "200-300",
+        "native_region": "Europe, Western Asia",
+        "companion_plants": "Sunflowers, Wildflowers"
+    },
+    {
+        "plan_name": "Hollyhock",
+        "food_element": "P & N",
+        "blooming_month": "April-June",
+        "flower_color": "Various",
+        "water_needs": "High",
+        "height": "150-300",
+        "native_region": "Asia, Europe, North America",
+        "companion_plants": "Sunflowers, Wildflowers"
+    },
+    {
+        "plan_name": "Eucalyptus",
+        "food_element": "N",
+        "blooming_month": "February-May, | August-December",
+        "flower_color": "White",
+        "water_needs": "Low",
+        "height": "1000-1500",
+        "native_region": "Australia",
+        "companion_plants": "Other Australian flowers"
+    },
+    {
+        "plan_name": "Yellow-horned Poppy",
+        "food_element": "P",
+        "blooming_month": "April-August",
+        "flower_color": "Yellow",
+        "water_needs": "Low",
+        "height": "30-60",
+        "native_region": "Mediterranean, Western Asia, North Africa",
+        "companion_plants": "Wildflowers, Lavender, Sage"
+    },
+    {
+        "plan_name": "Red-horned Poppy",
+        "food_element": "P",
+        "blooming_month": "April-May",
+        "flower_color": "Red",
+        "water_needs": "Low",
+        "height": "30-60",
+        "native_region": "Mediterranean, Western Asia, North Africa",
+        "companion_plants": "Wildflowers, Lavender, Sage"
+    },
+    {
+        "plan_name": "Mediterranean Stinkbush",
+        "food_element": "P",
+        "blooming_month": "January-April",
+        "flower_color": "White",
+        "water_needs": "Low",
+        "height": "50-100",
+        "native_region": "Mediterranean, Western Asia",
+        "companion_plants": "Other Mediterranean flowers"
+    },
+    {
+        "plan_name": "Foxtail Rest Harrow",
+        "food_element": "P",
+        "blooming_month": "April-May",
+        "flower_color": "Purple",
+        "water_needs": "Low",
+        "height": "40-80",
+        "native_region": "Mediterranean, Western Asia",
+        "companion_plants": "Wildflowers, Lavender, Sage"
+    },
+    {
+        "plan_name": "Hairy Rest Harrow",
+        "food_element": "P",
+        "blooming_month": "March-May",
+        "flower_color": "Purple",
+        "water_needs": "Low",
+        "height": "40-60",
+        "native_region": "Mediterranean, Western Asia",
+        "companion_plants": "Wildflowers, Lavender, Sage"
+    },
+    {
+        "plan_name": "Sticky Rest Harrow",
+        "food_element": "P",
+        "blooming_month": "April-September",
+        "flower_color": "Pink, Purple",
+        "water_needs": "Low",
+        "height": "20-60",
+        "native_region": "Mediterranean, Western Asia",
+        "companion_plants": "Wildflowers, Lavender, Sage"
+    },
+    {
+        "plan_name": "Downy Rest Harrow",
+        "food_element": "P",
+        "blooming_month": "March-July",
+        "flower_color": "Pink, Purple",
+        "water_needs": "Low",
+        "height": "30-60",
+        "native_region": "Mediterranean, Western Asia",
+        "companion_plants": "Wildflowers, Lavender, Sage"
+    },
+    {
+        "plan_name": "White Broom",
+        "food_element": "N & P",
+        "blooming_month": "March-April",
+        "flower_color": "White",
+        "water_needs": "Low",
+        "height": "50-200",
+        "native_region": "Mediterranean, Western Asia, North Africa",
+        "companion_plants": "Wildflowers, Lavender, Sage"
+    },
+    {
+        "plan_name": "Calligonum Fringed",
+        "food_element": "N & P",
+        "blooming_month": "February-April",
+        "flower_color": "Pink, Red",
+        "water_needs": "Low",
+        "height": "50-150",
+        "native_region": "Mediterranean, Western Asia, North Africa",
+        "companion_plants": "Other Mediterranean flowers"
+    },
+    {
+        "plan_name": "Crown Anemone",
+        "food_element": "P",
+        "blooming_month": "February - May",
+        "flower_color": "Pink, Purple",
+        "water_needs": "Low",
+        "height": "20-40",
+        "native_region": "Mediterranean, Western Asia",
+        "companion_plants": "Wildflowers, Lavender, Sage"
+    },
+    {
+        "plan_name": "Virgin’s Bower",
+        "food_element": "P & N",
+        "blooming_month": "November-February",
+        "flower_color": "White",
+        "water_needs": "Medium",
+        "height": "200-600",
+        "native_region": "Asia, Europe, North America",
+        "companion_plants": "Sunflowers, Wildflowers"
+    },
+    {
+        "plan_name": "Sweet Virgin’s Bower",
+        "food_element": "P & N",
+        "blooming_month": "April-June",
+        "flower_color": "White",
+        "water_needs": "Medium",
+        "height": "200-500",
+        "native_region": "Asia, Europe, North America",
+        "companion_plants": "Sunflowers, Wildflowers"
+    },
+    {
+        "plan_name": "White Upright Mignonette",
+        "food_element": "P & N",
+        "blooming_month": "February-April",
+        "flower_color": "White",
+        "water_needs": "Medium",
+        "height": "10-20",
+        "native_region": "Mediterranean, Western Asia",
+        "companion_plants": "Wildflowers, Lavender, Sage"
+    },
+    {
+        "plan_name": "Mignonette",
+        "food_element": "P & N",
+        "blooming_month": "February-May",
+        "flower_color": "Yellow, Green",
+        "water_needs": "Medium",
+        "height": "20-60",
+        "native_region": "Europe, Western Asia",
+        "companion_plants": "Wildflowers, Lavender, Sage"
+    },
+    {
+        "plan_name": "Mignonette",
+        "food_element": "P & N",
+        "blooming_month": "February-November",
+        "flower_color": "Yellow",
+        "water_needs": "Medium",
+        "height": "15-25",
+        "native_region": "Europe, Western Asia",
+        "companion_plants": "Wildflowers, Lavender, Sage"
+    },
+    {
+        "plan_name": "Yellow Mignonette",
+        "food_element": "P & N",
+        "blooming_month": "March-June",
+        "flower_color": "Yellow",
+        "water_needs": "Medium",
+        "height": "20-40",
+        "native_region": "Europe, Western Asia",
+        "companion_plants": "Wildflowers, Lavender, Sage"
+    },
+    {
+        "plan_name": "Mignonette",
+        "food_element": "P & N",
+        "blooming_month": "March-April",
+        "flower_color": "Yellow, Orange",
+        "water_needs": "Medium",
+        "height": "20-40",
+        "native_region": "Europe, Western Asia",
+        "companion_plants": "Wildflowers, Lavender, Sage"
+    },
+    {
+        "plan_name": "Oriental Mignonette",
+        "food_element": "P & N",
+        "blooming_month": "December-February",
+        "flower_color": "Yellow",
+        "water_needs": "Low",
+        "height": "150-300",
+        "native_region": "Europe, Western Asia",
+        "companion_plants": "Wildflowers, Lavender, Sage"
+    },
+    {
+        "plan_name": "Palestine Buckthorn",
+        "food_element": "P & N",
+        "blooming_month": "January-April",
+        "flower_color": "Yellow",
+        "water_needs": "Low",
+        "height": "150-300",
+        "native_region": "Mediterranean, Western Asia, North Africa",
+        "companion_plants": "Wildflowers, Lavender, Sage"
+    },
+    {
+        "plan_name": "Christ’s Thorn Jujube",
+        "food_element": "P & N",
+        "blooming_month": "April-October",
+        "flower_color": "White",
+        "water_needs": "Low",
+        "height": "400-500",
+        "native_region": "Mediterranean, Western Asia",
+        "companion_plants": "Other Mediterranean flowers"
+    },
+    {
+        "plan_name": "Common Bitter Almond",
+        "food_element": "P & N",
+        "blooming_month": "February-March",
+        "flower_color": "Pink, White",
+        "water_needs": "Low",
+        "height": "200-300",
+        "native_region": "Middle East",
+        "companion_plants": "Lavender, Rosemary, Sage"
+    },
+    {
+        "plan_name": "Wild Almond",
+        "food_element": "P & N",
+        "blooming_month": "February-March",
+        "flower_color": "Pink or white",
+        "water_needs": "Low",
+        "height": "200-400",
+        "native_region": "Middle East",
+        "companion_plants": "Lavender, Rosemary, Sage"
+    },
+    {
+        "plan_name": "Almond",
+        "food_element": "P & N",
+        "blooming_month": "February -March",
+        "flower_color": "Pink or white",
+        "water_needs": "Low",
+        "height": "200-400",
+        "native_region": "Middle East, South Asia",
+        "companion_plants": "Lavender, Rosemary, California poppy, Wild lilac, Clovers, Yarrow, Manzanita, Ceanothus"
+    },
+    {
+        "plan_name": "Sweet Cherry",
+        "food_element": "P & N",
+        "blooming_month": "March-April",
+        "flower_color": "White or pink",
+        "water_needs": "Medium",
+        "height": "300-400",
+        "native_region": "Europe, Western Asia",
+        "companion_plants": "Fruit tree guilds (apple, peach, plum), herbs (basil, borage, chamomile, chives, comfrey, fennel, lavender, mint, parsley, thyme), bee balm, catmint, echinacea, marigold, salvia, yarrow"
+    },
+    {
+        "plan_name": "Plum",
+        "food_element": "P & N",
+        "blooming_month": "March-April",
+        "flower_color": "White or pink",
+        "water_needs": "Medium",
+        "height": "300-400",
+        "native_region": "Europe, Western Asia",
+        "companion_plants": "Herbs (basil, chamomile, chives, comfrey, fennel, lavender, mint, parsley, thyme), bee balm, catmint, echinacea, marigold, salvia, yarrow"
+    },
+    {
+        "plan_name": "Peach",
+        "food_element": "P & N",
+        "blooming_month": "March-April",
+        "flower_color": "Pink",
+        "water_needs": "High",
+        "height": "300-400",
+        "native_region": "China, South Asia",
+        "companion_plants": "Fruit tree guilds (apple, cherry, plum), herbs (basil, borage, chamomile, chives, comfrey, fennel, lavender, mint, parsley, thyme), bee balm, catmint, echinacea, marigold, salvia, yarrow"
+    },
+    {
+        "plan_name": "Bear’s Plum",
+        "food_element": "P & N",
+        "blooming_month": "March-April",
+        "flower_color": "White",
+        "water_needs": "Low",
+        "height": "100-200",
+        "native_region": "Eastern Europe, Asia",
+        "companion_plants": "Herbs (rosemary, sage, thyme), flowering shrubs (butterfly bush, spirea), coneflower, bee balm, catmint, echinacea, marigold, salvia, yarrow"
+    },
+    {
+        "plan_name": "Lemon",
+        "food_element": "P & N",
+        "blooming_month": "April-June",
+        "flower_color": "White or pink",
+        "water_needs": "High",
+        "height": "300-600",
+        "native_region": "Asia",
+        "companion_plants": "Herbs (basil, dill, mint, rosemary, thyme), fruit tree guilds (apple, cherry, plum), bee balm, catmint, echinacea, marigold, salvia, yarrow"
+    },
+    {
+        "plan_name": "Willow",
+        "food_element": "P & N",
+        "blooming_month": "March-June",
+        "flower_color": "Yellow or green",
+        "water_needs": "High",
+        "height": "200-900",
+        "native_region": "Northern Hemisphere",
+        "companion_plants": "Willow prefers to grow alone"
+    },
+    {
+        "plan_name": "Common Mullein",
+        "food_element": "P",
+        "blooming_month": "April-July",
+        "flower_color": "Yellow",
+        "water_needs": "Low",
+        "height": "60-250",
+        "native_region": "Europe, Asia",
+        "companion_plants": "Lavender, Echinacea, Black-eyed Susan, Wild rose, St. John’s Wort"
+    },
+    {
+        "plan_name": "Sinai Mullein",
+        "food_element": "P",
+        "blooming_month": "April-July",
+        "flower_color": "Yellow",
+        "water_needs": "Low",
+        "height": "60-250",
+        "native_region": "Sinai Peninsula",
+        "companion_plants": "Lavender, Echinacea, Black-eyed Susan, Wild rose, St. John’s Wort"
+    },
+    {
+        "plan_name": "Scallop-leaved Mullein",
+        "food_element": "P",
+        "blooming_month": "April-October",
+        "flower_color": "Yellow",
+        "water_needs": "Low",
+        "height": "60-250",
+        "native_region": "Europe, Asia",
+        "companion_plants": "Lavender, Echinacea, Black-eyed Susan, Wild rose, St. John’s Wort"
+    },
+    {
+        "plan_name": "Storax Tree",
+        "food_element": "N & P",
+        "blooming_month": "March-April",
+        "flower_color": "White or pink",
+        "water_needs": "Low",
+        "height": "300-600",
+        "native_region": "Southeast Europe, Asia",
+        "companion_plants": "Herbs (rosemary, thyme), flowering shrubs (butterfly bush, spirea), coneflower, bee balm, catmint, echinacea, marigold, salvia, yarrow"
+    },
+    {
+        "plan_name": "Athel Pine",
+        "food_element": "P & N",
+        "blooming_month": "July-November",
+        "flower_color": "Green or yellow",
+        "water_needs": "Low",
+        "height": "600-900",
+        "native_region": "Middle East",
+        "companion_plants": "Herbs (basil, lavender, rosemary, sage), flowering plants (bee balm, echinacea, marigold, sunflowers), fruit trees (apple, cherry, plum)"
+    },
+    {
+        "plan_name": "Tamarisk",
+        "food_element": "P & N",
+        "blooming_month": "March-May",
+        "flower_color": "Pink or purple",
+        "water_needs": "Low",
+        "height": "200-500",
+        "native_region": "Africa, Eurasia",
+        "companion_plants": "Herbs (rosemary, sage), flowering plants (bee balm, echinacea, marigold, sunflowers"
+    },
+    {
+        "plan_name": "Sawtooth Fogfruit",
+        "food_element": "N",
+        "blooming_month": "April-September",
+        "flower_color": "Pink or purple",
+        "water_needs": "Low",
+        "height": "60-100",
+        "native_region": "Southern US",
+        "companion_plants": "Purple coneflower, Bee balm, Black-eyed Susan, Goldenrod"
+    },
+    {
+        "plan_name": "Salt Tree",
+        "food_element": "P & N",
+        "blooming_month": "April-May",
+        "flower_color": "Yellow",
+        "water_needs": "High",
+        "height": "300-700",
+        "native_region": "Australia, Asia, Africa",
+        "companion_plants": "Bottlebrush, Wattle, Grevillea, Banksia"
+    },
+    {
+        "plan_name": "Bushy Bean Caper Plant",
+        "food_element": "P & N",
+        "blooming_month": "February-April",
+        "flower_color": "White",
+        "water_needs": "Low",
+        "height": "60-150",
+        "native_region": "Mediterranean",
+        "companion_plants": "Rosemary, Sage, Thyme, Lavender, Oregano"
+    }
+]
